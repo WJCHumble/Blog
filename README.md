@@ -11,3 +11,4 @@
 **算法**
 
 - [链表](https://github.com/WJCHumble/Blog/issues/2)
+- [栈](https://github.com/WJCHumble/Blog/issues/4)
