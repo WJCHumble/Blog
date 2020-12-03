@@ -10,5 +10,6 @@
 
 **算法**
 
-- [链表](https://github.com/WJCHumble/Blog/issues/2)
+- [单链表](https://github.com/WJCHumble/Blog/issues/2)
 - [栈](https://github.com/WJCHumble/Blog/issues/4)
+- [数组](https://github.com/WJCHumble/Blog/issues/5)
