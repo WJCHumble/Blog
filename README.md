@@ -15,4 +15,5 @@
 - [队列](https://github.com/WJCHumble/Blog/issues/6)
 - [栈](https://github.com/WJCHumble/Blog/issues/4)
 - [二叉树](https://github.com/WJCHumble/Blog/issues/7)
+- [分治](https://github.com/WJCHumble/Blog/issues/8)
 
