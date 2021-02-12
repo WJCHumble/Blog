@@ -11,9 +11,11 @@
 **算法**
 
 - [数组](https://github.com/WJCHumble/Blog/issues/5)
+- [字符串]()
 - [单链表](https://github.com/WJCHumble/Blog/issues/2)
-- [队列](https://github.com/WJCHumble/Blog/issues/6)
 - [栈](https://github.com/WJCHumble/Blog/issues/4)
-- [二叉树](https://github.com/WJCHumble/Blog/issues/7)
+- [队列](https://github.com/WJCHumble/Blog/issues/6)
+- [树](https://github.com/WJCHumble/Blog/issues/7)
 - [分治](https://github.com/WJCHumble/Blog/issues/8)
 - [递归、回溯](https://github.com/WJCHumble/Blog/issues/9)
+- [动态规划]()
