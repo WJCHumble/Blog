@@ -18,11 +18,11 @@
 
 - [下一个时代的打包工具 esbuild](https://github.com/WJCHumble/Blog/issues/14)
 - [手把手带你实现一个 Webpack 的 Bundle 打包机制](https://github.com/WJCHumble/Blog/issues/15)
+- [带给你幸福感的 auto-inject-async-catch-loader](https://github.com/WJCHumble/Blog/issues/12)
 
 **工程化**
 
 - [通过 Vite 的 create-app 学习如何实现一个简易版 CLI ](https://github.com/WJCHumble/Blog/issues/13)
-- [带给你幸福感的 auto-inject-async-catch-loader](https://github.com/WJCHumble/Blog/issues/12)
 
 **浏览器**
 
