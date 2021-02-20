@@ -1,6 +1,10 @@
 ## 文章目录
 
 
+**TypeScript**
+
+- [TypeScript 高级类型，你了解几个？](https://github.com/WJCHumble/Blog/issues/21)
+
 **Vue 3**
 
 - [Vue 3 源码解读文档](https://wjchumble.github.io/explain-vue3.0/)
