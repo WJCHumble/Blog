@@ -6,9 +6,9 @@
 - [Vue 3 源码解读文档](https://wjchumble.github.io/explain-vue3.0/)
 - [使用 Vue3 的 complier-core 玩转模版编译 ](https://github.com/WJCHumble/Blog/issues/18)
 
-**Vite**
+**Node**
 
-- [Vite 依赖预构建，缩短数倍的冷启动时间](https://github.com/WJCHumble/Blog/issues/11)
+- [详解，从后端导出文件到前端（Blob）下载过程](https://github.com/WJCHumble/Blog/issues/20)
 
 **跨端开发**
 
@@ -16,6 +16,8 @@
 
 **构建工具**
 
+- [Vite 依赖预构建，缩短数倍的冷启动时间](https://github.com/WJCHumble/Blog/issues/11)
+- [从零到一，带你彻底搞懂 vite 中的 HMR 原理](https://github.com/WJCHumble/Blog/issues/19)
 - [下一个时代的打包工具 esbuild](https://github.com/WJCHumble/Blog/issues/14)
 - [手把手带你实现一个 Webpack 的 Bundle 打包机制](https://github.com/WJCHumble/Blog/issues/15)
 - [带给你幸福感的 auto-inject-async-catch-loader](https://github.com/WJCHumble/Blog/issues/12)
