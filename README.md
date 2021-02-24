@@ -17,7 +17,7 @@
 
 **｜跨端开发**
 
-**1.[跨端开发的最佳实践——Chameleon（变色龙 ）](https://github.com/WJCHumble/Blog/issues/16)
+- [跨端开发的最佳实践——Chameleon（变色龙 ）](https://github.com/WJCHumble/Blog/issues/16)
 
 **｜构建工具**
 
