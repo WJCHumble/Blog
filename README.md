@@ -18,7 +18,7 @@
 
 - [使用 Verdaccio 打造一个企业级私有 npm 库](https://github.com/WJCHumble/Blog/issues/22)
 
-- [刨根问底，揭开 Vue 中 Scope CSS 实现的幕后（原理）](https://github.com/WJCHumble/Blog/issues)
+- [刨根问底，揭开 Vue 中 Scope CSS 实现的幕后（原理）](https://github.com/WJCHumble/Blog/issues/23)
 
 **｜浏览器**
 
