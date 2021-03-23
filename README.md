@@ -48,6 +48,6 @@
 
 - [攻克 HTTP 基础知识，多图预警](https://github.com/WJCHumble/Blog/issues/1)
 
-**| TodoList**
+**｜ TodoList**
 
 - 算法相关，正在整理中，预计 4 月底和大家见面，敬请期待
