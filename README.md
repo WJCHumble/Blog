@@ -18,6 +18,8 @@
 
 - [使用 Verdaccio 打造一个企业级私有 npm 库](https://github.com/WJCHumble/Blog/issues/22)
 
+- [Vue.js——作用域 CSS 的那点事](https://github.com/WJCHumble/Blog/issues/25)
+
 - [刨根问底，揭开 Vue 中 Scope CSS 实现的幕后（原理）](https://github.com/WJCHumble/Blog/issues/23)
 
 **｜浏览器**
@@ -39,6 +41,8 @@
 **｜跨端开发**
 
 - [跨端开发的最佳实践——Chameleon（变色龙 ）](https://github.com/WJCHumble/Blog/issues/16)
+
+- [作为前端，你需要知道 RxJS（响应式编程-流）](https://github.com/WJCHumble/Blog/issues/24)
 
 **｜ TypeScript**
 
