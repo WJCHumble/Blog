@@ -30,7 +30,7 @@
 
 **｜ Vue 3**
 
-- [Vue 3 源码解读文档](https://wjchumble.github.io/explain-vue3.0/)
+- [Vue 3.0 源码相关——电子书 《 Vue 3.0 源码解读》 ](https://wjchumble.github.io/explain-vue3.0/)
 
 - [使用 Vue3 的 complier-core 玩转模版编译 ](https://github.com/WJCHumble/Blog/issues/18)
 
