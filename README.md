@@ -12,6 +12,8 @@
 
 - [带给你幸福感的 auto-inject-async-catch-loader](https://github.com/WJCHumble/Blog/issues/12)
 
+- [如何实现一个 esbuild 插件？从入门到上手，没有比这更简单的了！](https://github.com/WJCHumble/Blog/issues/26)
+
 **｜工程化**
 
 - [通过 Vite 的 create-app 学习如何实现一个简易版 CLI ](https://github.com/WJCHumble/Blog/issues/13)
