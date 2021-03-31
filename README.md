@@ -1,6 +1,6 @@
 ## 文章目录
 
-** 构建工具**
+**构建工具**
 
 - [Vite 依赖预构建，缩短数倍的冷启动时间](https://github.com/WJCHumble/Blog/issues/11)
 
