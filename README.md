@@ -24,6 +24,8 @@
 
 - [刨根问底，揭开 Vue 中 Scope CSS 实现的幕后（原理）](https://github.com/WJCHumble/Blog/issues/23)
 
+- [Es-Module-Lexer，ES Module 语法的词法分析利器](https://github.com/WJCHumble/Blog/issues/27)
+
 **浏览器**
 
 - [从浏览器输入 URL 到页面展示过程发生了什么？](https://github.com/WJCHumble/Blog/issues/3)
