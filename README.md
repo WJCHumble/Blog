@@ -52,10 +52,3 @@
 
 - [TypeScript 高级类型，你了解几个？](https://github.com/WJCHumble/Blog/issues/21)
 
-**计算机网络**
-
-- [攻克 HTTP 基础知识，多图预警](https://github.com/WJCHumble/Blog/issues/1)
-
-**TodoList**
-
-- 算法相关，正在整理中，预计 4 月底和大家见面，敬请期待
