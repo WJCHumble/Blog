@@ -2,6 +2,8 @@
 
 **构建工具**
 
+- [Esbuild 入口文件及启动过程｜源码解读](https://github.com/WJCHumble/Blog/issues/29)
+
 - [Vite 依赖预构建，缩短数倍的冷启动时间](https://github.com/WJCHumble/Blog/issues/11)
 
 - [从零到一，带你彻底搞懂 vite 中的 HMR 原理](https://github.com/WJCHumble/Blog/issues/19)
