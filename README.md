@@ -36,6 +36,8 @@
 
 **Vue 3**
 
+- [Vue 3 的 SFC Style CSS Variable Injection 提案实现的背后 ](https://github.com/WJCHumble/Blog/issues/30)
+
 - [Vue 3.0 源码相关——电子书 《 Vue 3.0 源码解读》 ](https://wjchumble.github.io/explain-vue3.0/)
 
 - [使用 Vue3 的 complier-core 玩转模版编译 ](https://github.com/WJCHumble/Blog/issues/18)
