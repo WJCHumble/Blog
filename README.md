@@ -62,3 +62,6 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员 🤓️，
 
 1.[TypeScript 高级类型，你了解几个？](https://github.com/WJCHumble/Blog/issues/21)
 
+### | 其他
+
+1.[给自己的 GitHub Profile 做个贪吃蛇游戏](https://github.com/WJCHumble/Blog/issues/31)
