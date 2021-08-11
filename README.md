@@ -34,6 +34,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员 🤓️，
 
 5.[Es-Module-Lexer，ES Module 语法的词法分析利器](https://github.com/WJCHumble/Blog/issues/27)
 
+6.[从过去到现在，聊聊 Tree-shaking 是什么？](https://github.com/WJCHumble/Blog/issues/32)
+
 ### | 浏览器
 
 1.[从浏览器输入 URL 到页面展示过程发生了什么？](https://github.com/WJCHumble/Blog/issues/3)
