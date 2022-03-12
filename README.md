@@ -36,6 +36,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 6.[从过去到现在，聊聊 Tree-shaking 是什么？](https://github.com/WJCHumble/Blog/issues/32)
 
+7.[设置 NPM Registry 的 4 种姿势](https://github.com/WJCHumble/Blog/issues/34)
+
 ### | 浏览器
 
 1.[从浏览器输入 URL 到页面展示过程发生了什么？](https://github.com/WJCHumble/Blog/issues/3)
