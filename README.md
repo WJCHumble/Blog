@@ -38,6 +38,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 7.[设置 NPM Registry 的 4 种姿势](https://github.com/WJCHumble/Blog/issues/34)
 
+8.[现代 Monorepo 工程技术选型，聊聊我的思考](https://github.com/WJCHumble/Blog/issues)
+
 ### | 浏览器
 
 1.[从浏览器输入 URL 到页面展示过程发生了什么？](https://github.com/WJCHumble/Blog/issues/3)
