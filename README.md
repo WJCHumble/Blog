@@ -44,6 +44,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 10.[一文带你读懂何为 macOS App 公证，以及如何自动化实现](https://github.com/WJCHumble/Blog/issues/38)
 
+11.[macOS App IDs, Certificates & Profiles 基础和自动化管理](https://github.com/WJCHumble/Blog/issues/39)
+
 ### | 浏览器
 
 1.[从浏览器输入 URL 到页面展示过程发生了什么？](https://github.com/WJCHumble/Blog/issues/3)
