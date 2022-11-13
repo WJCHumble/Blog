@@ -46,6 +46,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 11.[macOS App IDs, Certificates & Profiles 基础和自动化管理](https://github.com/WJCHumble/Blog/issues/39)
 
+12.[常用文件访问权相关命令，以及 macOS launchd](https://github.com/WJCHumble/Blog/issues/40)
+
 ### | 浏览器
 
 1.[从浏览器输入 URL 到页面展示过程发生了什么？](https://github.com/WJCHumble/Blog/issues/3)
