@@ -44,8 +44,6 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 - [macOS App 自动化分发 App Store 探索与实践](https://github.com/WJCHumble/Blog/issues/37)
 
-- [一文带你读懂何为 macOS App 公证，以及如何自动化实现](https://github.com/WJCHumble/Blog/issues/38)
-
 - [macOS App IDs, Certificates & Profiles 基础和自动化管理](https://github.com/WJCHumble/Blog/issues/39)
 
 - [常用文件访问权相关命令，以及 macOS launchd](https://github.com/WJCHumble/Blog/issues/40)
