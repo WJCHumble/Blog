@@ -2,9 +2,7 @@
 
 **"大贤虎变愚不测，当年颇似寻常人"**
 
-Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里是我写博客的地方。目前，我专注于「源码」、「前端工程化」、「跨端」和「CI/CD」等技术学习和分享。
-
-如果，你觉得我的文章可以给你带来收获的话，**欢迎 Star**，这也将会成为我持续分享的动力，感谢～
+Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里是我写博客的地方。
 
 ### | 前端构建工具
 
@@ -56,13 +54,13 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 ### | Vue3
 
+- [Vue3 源码相关——电子书 《 Vue3 源码解读》 ](https://wjchumble.github.io/explain-vue3.0/)
+
 - [揭秘，Vue3 性能优化之 Non-reactive Object](https://github.com/WJCHumble/Blog/issues/36)
 
 - [Vue3 Ref 语法糖，告别 .value 的写法](https://github.com/WJCHumble/Blog/issues/33)
 
 - [Vue3 的 SFC Style CSS Variable Injection 提案实现的背后 ](https://github.com/WJCHumble/Blog/issues/30)
-
-- [Vue3 源码相关——电子书 《 Vue3 源码解读》 ](https://wjchumble.github.io/explain-vue3.0/)
 
 - [使用 Vue3 的 complier-core 玩转模版编译 ](https://github.com/WJCHumble/Blog/issues/18)
 
