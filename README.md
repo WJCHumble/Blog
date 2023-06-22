@@ -78,6 +78,10 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 - [TypeScript 高级类型，你了解几个？](https://github.com/WJCHumble/Blog/issues/21)
 
+### | 英文文章周刊
+
+- [每周值得推荐的英文技术文章](https://github.com/WJCHumble/weekly-article-en)
+
 ### | 其他
 
 - [给自己的 GitHub Profile 做个贪吃蛇游戏](https://github.com/WJCHumble/Blog/issues/31)
