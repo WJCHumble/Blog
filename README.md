@@ -40,6 +40,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 ### | CI/CD
 
+- [一文读懂，如何工程化实现 macOS App 公证过程](https://github.com/WJCHumble/Blog/issues/41)
+  
 - [macOS App 自动化分发 App Store 探索与实践](https://github.com/WJCHumble/Blog/issues/37)
 
 - [macOS App IDs, Certificates & Profiles 基础和自动化管理](https://github.com/WJCHumble/Blog/issues/39)
