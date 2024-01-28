@@ -22,6 +22,8 @@ Hi，我是「五柳」，一个想要**改变点东西**的程序员，这里�
 
 ### | 前端工程化
 
+- [如何基于文档的内容实现 AI 对话功能，以 Documate 为例](https://github.com/WJCHumble/Blog/issues/42)
+
 - [通过 Vite 的 create-app 学习如何实现一个简易版 CLI ](https://github.com/WJCHumble/Blog/issues/13)
 
 - [使用 Verdaccio 打造一个企业级私有 npm 库](https://github.com/WJCHumble/Blog/issues/22)
